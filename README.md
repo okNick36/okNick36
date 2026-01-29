@@ -1,6 +1,16 @@
-## Hello! 👋
-My name is Nick, and I have been (attempting to) develop front-end and back-end interfaces. I also have a homelab which allows for endless possibilities of self-hosting and more.
+# 👋 Hello!
+I'm Nick, a 19 year old learning software engineering on the side of everything else that goes on in my life.
 
-## Statistics
+## 💭 Current Interests / Skills
+- 🖥️ Full-stack development
+- 🛠️ Home-lab, networking, and self-hosted software 
+- 🎮 Game modifications
 
-[![okNick36's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=okNick&api_domain=wakapi.oknick.club&bg_color=121212&title_color=68adfc&text_color=ffffff&custom_title=Coding%20Stats%20(Weekly)&layout=compact)](https://wakapi.oknick.club)
+
+## 🔧 Tech I'm Using
+- **Languages:** Java, TS/JS 
+- **Frameworks:** Next.js (Web)
+
+## 🤔 What's Next
+- 📱 Mobile application development (Flutter / React Native)
+-  🚀 Launching small passion projects
